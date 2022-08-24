@@ -1,0 +1,34 @@
+.heading{
+width: 100%;
+text-align:left;
+
+
+}
+.h1{
+display: inline;
+
+}
+.button1{
+float: right;
+
+
+
+
+}
+.start{
+font-size: 25px;
+
+
+
+}
+
+.size{
+width: 100%;
+
+}
+video{
+background:url("game_console.png");
+background-size: cover;
+background-position: center;
+padding: 50px;
+}
